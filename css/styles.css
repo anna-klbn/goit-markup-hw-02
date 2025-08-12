@@ -1,0 +1,182 @@
+body{
+    font-family:Roboto;
+    line-height: 100%;
+    letter-spacing: 3%;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+
+/*------header------*/
+.logo{
+    color:#2196F3;
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 26px;
+    
+}
+
+.logo span{
+    color:#212121;
+}
+
+
+.site-nav__link{
+    color: #212121;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 2%;
+   
+}
+
+.site-nav__link:hover, .site-nav__link:focus{
+    color: #2196F3;
+}
+
+
+.button-header{
+    color: #757575;
+    background-color:#ffffff;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 2%;
+    border: 0;
+    
+}
+.button-header:hover, .button-header:focus{
+    color: #2196F3;
+}
+
+/*------main-------*/
+
+/*------hero-------*/
+.section-hero__title{
+    color: #ffffff;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    letter-spacing: 6%;
+    text-align: center;
+    text-transform: uppercase;
+}
+.section-hero__btn{
+    color: #ffffff;
+    background-color: #2196F3;
+    border: 0;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 6%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+/*-----features------*/
+
+.section-features__name{
+    color: #212121;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.section-features__text{
+    color: #757575;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+/*--------work--------*/
+.section-work__title{
+    color: #212121;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+}
+
+.section-work__item{
+
+}
+/*--------team--------*/
+.section-team__title{
+    color: #212121;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 36px;  
+    text-align: center;
+}
+
+.section-team__item{
+
+}
+.section-team__name{
+    color: #212121;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+}
+.section-team__profession{
+    color: #757575;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+}
+/*------footer-----*/
+.section-footer__logo{
+    color: #2196F3;
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 26px;
+    
+}
+.section-footer__logo span{
+    color: #FFFFFF;
+}
+
+.section-footer__link{
+    color: #757575;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    font-style: normal;
+    
+}
+.section-footer__link:hover{
+    color: #FFFFFF;
+
+}
+
+
+
+
+/*--------portfolio-----------*/
+
+.section-button__btn{
+    border: 0;
+    background-color: #F5F4FA;
+    color: #212121;
+}
+.section-button__btn:hover,
+.section-button__btn:focus{
+    background-color: #2196F3;
+    color: #FFFFFF;
+}
+
+/*---------card-------*/
+
+.section-card__name{
+    color: #212121;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: 6%;
+}
+.section-card__btn{
+    color: #757575;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+}
